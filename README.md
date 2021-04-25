@@ -3,15 +3,19 @@
 ## CONTENTS :
 
 - EDA- Exploraty Data Analysis
-- Add Labels, Styles / Change Color, Marker, Fontsize / Save the Plot / Quality improvement
-- Multiple Plots
-- Scatter
-- Line Chart
-- Histogram
-- Bar Chart
-- Boxplot
+- There are many different versions of COUNTPLOT
+- Pie plot
+- There are many different versions of BARPLOT
+- There are many different versions of BOXPLOT
+- Lineplot
+- There are many different versions of RELPLOT
+- Swarm plot
+- Scatter plot
 
 ## PACKAGES TO BE DOWNLOADED :
+
+* pip install seaborn
+
 * pip install matplotlib
 
 * pip install numpy
@@ -20,6 +24,7 @@
 
 ## REQUIRED MODULES :
 
+* import seaborn as sns
 * import pandas as pd
 * import numpy as np
 * import matplotlib.pyplot as plt
